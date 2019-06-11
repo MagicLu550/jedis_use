@@ -1,4 +1,4 @@
-package net.noyark.redis_demo;
+package net.noyark.redis_demo.test;
 
 import org.junit.Test;
 import redis.clients.jedis.*;
@@ -10,7 +10,7 @@ import java.util.Set;
 /**
  * 对于jedis客户端的测试demo
  */
-public class TestJedis {
+public class JedisTest {
 
 
     @Test

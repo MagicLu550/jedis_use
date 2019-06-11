@@ -1,7 +1,5 @@
 package net.noyark.redis_demo;
 
-import static org.springframework.test.context.transaction.TestTransaction.start;
-
 public class Test {
 
     public static void main(String[]args){

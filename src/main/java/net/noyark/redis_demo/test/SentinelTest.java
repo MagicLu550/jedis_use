@@ -1,4 +1,4 @@
-package net.noyark.redis_demo;
+package net.noyark.redis_demo.test;
 
 import redis.clients.jedis.HostAndPort;
 import redis.clients.jedis.Jedis;

@@ -1,4 +1,4 @@
-package net.noyark.redis_demo;
+package net.noyark.redis_demo.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
